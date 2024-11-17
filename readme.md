@@ -13,7 +13,6 @@ This project involves analyzing a dataset of used cars to understand factors inf
 - [Data Preparation](#data-preparation)
 - [Modeling](#modeling)
 - [Visualization Examples](#visualization-examples)
-- [Conclusion](#conclusion)
 
 ---
 
@@ -110,9 +109,5 @@ Preprocess the data for analysis and modeling:
 - **Fuel Type Distribution**: Analyze the popularity of different fuel types.
 - **Correlation Heatmap**: Visualize relationships among numerical features.
 
----
 
-## Conclusion
-
-This project explores the factors influencing car prices and develops predictive models to estimate selling prices. Further improvements may include hyperparameter tuning and testing additional machine learning algorithms.
 ```
