@@ -1,4 +1,3 @@
-```markdown
 # Used Car Price Analysis and Prediction
 
 This project involves analyzing a dataset of used cars to understand factors influencing their selling prices and preparing the data for predictive modeling. Visualizations and machine learning techniques are employed to derive insights and create a model to predict the selling prices of cars.
